@@ -1,2 +1,2 @@
 # Simple-PoC
-Some Poc for delta project
+Some PoC for delta project
